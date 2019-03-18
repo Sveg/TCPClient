@@ -1,0 +1,11 @@
+D:\VS2017 Repo\TCPClient\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.deps.json
+D:\VS2017 Repo\TCPClient\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.runtimeconfig.json
+D:\VS2017 Repo\TCPClient\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.runtimeconfig.dev.json
+D:\VS2017 Repo\TCPClient\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.dll
+D:\VS2017 Repo\TCPClient\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.pdb
+D:\VS2017 Repo\TCPClient\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.csprojAssemblyReference.cache
+D:\VS2017 Repo\TCPClient\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.csproj.CoreCompileInputs.cache
+D:\VS2017 Repo\TCPClient\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.AssemblyInfoInputs.cache
+D:\VS2017 Repo\TCPClient\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.AssemblyInfo.cs
+D:\VS2017 Repo\TCPClient\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.dll
+D:\VS2017 Repo\TCPClient\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.pdb
